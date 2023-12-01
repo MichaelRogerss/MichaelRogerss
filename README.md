@@ -3,12 +3,12 @@
 ### I am a Full-stack Web Developer
 
 Back-end Development
-
-UI Design & Development
-- HTML, CSS
-- NodeJS, React
 - PHP, Python
 - SQL, MongoDB
+UI Design & Development
+- HTML, CSS
+- Javascript, NodeJS, React
+
 <div  align="center">
        <h1> 🛠 Languages and Frameworks </h1>
        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
