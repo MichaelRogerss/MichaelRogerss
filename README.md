@@ -26,7 +26,7 @@ Back-end Development
        
 <img width="100%" src="https://github.com/MichaelRogerss/JobFinder/blob/main/michaelrogerss.github.io_JobFinder_(portfolio%20desktop).png?raw=true"/>
 
-<img width="100%" src="[https://github.com/MichaelRogerss/JobFinder/blob/main/michaelrogerss.github.io_JobFinder_(portfolio%20desktop).png?raw=true](https://github.com/MichaelRogerss/Tropicana-Landing-Page/blob/main/michaelrogerss.github.io_Tropicana-Landing-Page_(portfolio%20desktop).png?raw=true)"/>
+<img width="100%" src="https://raw.githubusercontent.com/MichaelRogerss/Tropicana-Landing-Page/main/michaelrogerss.github.io_Tropicana-Landing-Page_(portfolio%20desktop).png"/>
 
 <img width="100%" src="https://github.com/MichaelRogerss/JobFinder/blob/main/michaelrogerss.github.io_JobFinder_(portfolio%20desktop).png?raw=true"/>
 </div>
