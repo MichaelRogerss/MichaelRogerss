@@ -4,10 +4,10 @@
 
 UI Design & Development
 - HTML, CSS
-- Javascript, NodeJS, React
+- Javascript, React
 
 Back-end Development
-- PHP, Python
+- PHP, NodeJS, Python
 - SQL, MongoDB
 
 
