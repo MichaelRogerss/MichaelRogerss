@@ -2,13 +2,14 @@
 
 ### I am a Full-stack Web Developer
 
+UI Design & Development
+- HTML, CSS
+- Javascript, NodeJS, React
+
 Back-end Development
 - PHP, Python
 - SQL, MongoDB
 
-UI Design & Development
-- HTML, CSS
-- Javascript, NodeJS, React
 
 <div  align="center">
        <h1> 🛠 Languages and Frameworks </h1>
