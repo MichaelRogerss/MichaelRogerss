@@ -1,12 +1,12 @@
 ### Hello,
 ### I am a Full-stack Web Developer
 
-Languages
-HTML, CSS, JavaScript, NodeJS, Python, PHP
 
-Frameworks
-Jquery, React, Bulma, Bootstrap
-
+Technologies:
+Frontend:
+HTML, CSS, JavaScript, ReactJS, Jquery, Bulma, Bootstrap
+Backend:
+NodeJS, Python, PHP
 Data Structure
 SQL, MongoDB
 
