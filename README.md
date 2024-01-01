@@ -1,14 +1,14 @@
-### Hi there 👋
-
+### Hello,
 ### I am a Full-stack Web Developer
 
-UI Design & Development
-- HTML, CSS
-- Javascript, React
+Languages
+HTML, CSS, JavaScript, NodeJS, Python, PHP
 
-Back-end Development
-- PHP, NodeJS, Python
-- SQL, MongoDB
+Frameworks
+Jquery, React, Bulma, Bootstrap
+
+Data Structure
+SQL, MongoDB
 
 
 <div  align="center">
