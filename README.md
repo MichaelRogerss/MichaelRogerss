@@ -10,7 +10,7 @@ HTML, CSS, JavaScript, ReactJS, Jquery, Bulma, Bootstrap
 Backend:
 NodeJS, Python, PHP
 
-Data Structure
+Data Structure:
 SQL, MongoDB
 
 
