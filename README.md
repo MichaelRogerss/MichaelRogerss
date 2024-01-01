@@ -20,7 +20,7 @@ SQL, MongoDB
 
 <div style="display:flex;flex-direction:row;gap:1rem;">
 
-<a href="michaelrogerss.github.io/Website-Builder" >
+<a href="michaelrogerss.github.io/Website-Builder" target="_blank" >
   <img width="100%" src="https://github.com/MichaelRogerss/Website-Builder/blob/main/localhost_5000_(portfolio%20desktop).png?raw=true"/>
 </a>
 
