@@ -1,5 +1,4 @@
-### Hello,
-### I am a Full-stack Web Developer
+### Full-stack Web Developer
 
 
 Technologies:
