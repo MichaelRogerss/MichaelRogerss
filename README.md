@@ -1,9 +1,11 @@
 ### Full-stack Web Developer
-Technologies:
+
 Frontend:
 HTML, CSS, JavaScript, ReactJS, Jquery, Bulma, Bootstrap
+
 Backend:
 NodeJS, Python, PHP
+
 Data Structure:
 SQL, MongoDB
 
