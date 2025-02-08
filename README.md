@@ -1,7 +1,7 @@
 ### Software Engineer 
 
 Frontend:
-HTML, CSS, JavaScript, ReactJS, Jquery, Bulma, Bootstrap
+HTML, CSS, JavaScript, React
 
 Backend:
 NodeJS, Python, PHP
