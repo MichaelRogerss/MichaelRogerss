@@ -61,6 +61,15 @@ In addition to cybersecurity, I'm skilled in web design and backend development,
   <img src="https://img.shields.io/badge/Nmap-7.94+-green?logo=nmap" alt="NMap">
 </div>
 
+
+---
+ <div align=center>
+  <img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=michaelrogerss&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+  <img width=440  src="https://github-readme-stats-salesp07.vercel.app/api?username=michaelrogerss&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+  <img width=440 src="https://github-readme-streak-stats.herokuapp.com/?user=michaelrogerss&theme=dark&hide_border=true"/>
+
+</div>
+
 <span></span>
 
 
